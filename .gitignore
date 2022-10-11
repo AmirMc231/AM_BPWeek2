@@ -75,3 +75,12 @@ DerivedDataCache/*
 
 #Starter Content
 Content/StarterContent/*
+
+#Third Person
+Content/ThirdPerson/*
+Content/__ExternalActors__/*
+Content/__ExternalObjects__/*
+Content/Characters/*
+
+#Level Prototyping
+Content/LevelPrototyping/*
