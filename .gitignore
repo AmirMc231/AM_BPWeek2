@@ -78,6 +78,8 @@ Content/StarterContent/*
 
 #Third Person
 Content/ThirdPerson/*
+Content/FirstPersonArms/*
+Content/FPWeapon/*
 Content/__ExternalActors__/*
 Content/__ExternalObjects__/*
 Content/Characters/*
